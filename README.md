@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a fish ecologist and geneticist currently working as a contractor for NOAA's Northwest Fisheries Science Center. In my current role, I work on a variety of projects within the lab and in the field, with study species that range from marine mammals to giant manta rays and anadromous fishes. A large portion of my work centers on supporting the eDNA initiatives of the [Integrated West Coast Pelagics Survey](https://www.fisheries.noaa.gov/west-coast/science-data/integrated-west-coast-pelagics-survey). 
+I am a fish ecologist and geneticist working as a contractor for NOAA's Northwest Fisheries Science Center. In my current role, I work on a variety of projects within the lab and in the field, with study species that range from marine mammals to giant manta rays and anadromous fishes. A large portion of my work centers on supporting the eDNA initiatives of the [Integrated West Coast Pelagics Survey](https://www.fisheries.noaa.gov/west-coast/science-data/integrated-west-coast-pelagics-survey). 
 
 Although much of my current work is focused on marine ecology, my background reflects my deep interest in freshwater fish ecology. This fall, I will dive back into the freshwater world as I begin my PhD at the University of Vermont, where I will be studying the effects of angling on black bass populations on Lake Champlain.  
 
