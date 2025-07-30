@@ -13,6 +13,6 @@ Betts, M. M., D. C. Haak, E. M. Hallerman, E. G. Maurakis, and E. A Frimpong. Re
 
 Betts, M. M., E. A. Hultin, E. M. Hallerman, E. G. Maurakis, and E. A. Frimpong. Host-orchestrated embryonic selfish herd dynamics motivate acceptance of brood parasitism in the gravel nest of a stream fish. *In review*. 
 
-Shelton, A. O., K. Nichols, K. M. Parsons, M. M. Betts, S. P. Engster, A. Ramón-Laca, M. Parsley, M. Shaffer, A. Wells. 2025. Developing an abundance index for pacific hake using environmental DNA (Appendix G in: Status of the Pacific Hake (whiting) stock in U.S. and Canadian waters in 2025). 286 p.
+Shelton, A. O., K. Nichols, K. M. Parsons, M. M. Betts, S. P. Engster, A. Ramón-Laca, M. Parsley, M. Shaffer, A. Wells. 2025. Developing an abundance index for pacific hake using environmental DNA (Appendix G in: Status of the Pacific Hake (whiting) stock in U.S. and Canadian waters in 2025). 286 p. [https://rdrr.io/github/pacific-hake/hake-assessment/f/doc/151-appendix-eDNA-index.rmd](https://rdrr.io/github/pacific-hake/hake-assessment/f/doc/151-appendix-eDNA-index.rmd)
 
 Betts, M. M., N. Abaid, E. G. Maurakis, and E. A. Frimpong. 2024. Bluehead chub *Nocomis leptocephalus* hosts exploit selfish-herd benefits from their heterospecific nest associates. *Freshwater Biology*, 69, 450–459. [https://doi.org/10.1111/fwb.14224](https://onlinelibrary.wiley.com/doi/10.1111/fwb.14224).
