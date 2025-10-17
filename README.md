@@ -13,7 +13,7 @@ Although much of my current work is focused on marine ecology, my background ref
 
 Betts, M. M., D. C. Haak, E. M. Hallerman, E. G. Maurakis, and E. A Frimpong. Reciprocal predation of embryonic fishes exposes selfishness by *Nocomis leptocephalus*. *In review*. 
 
-Betts, M. M., E. A. Hultin, E. M. Hallerman, E. G. Maurakis, and E. A. Frimpong. Host-orchestrated embryonic selfish herd dynamics motivate acceptance of brood parasitism in the gravel nest of a stream fish. *In review*. 
+Betts, M. M., E. A. Hultin, E. M. Hallerman, E. G. Maurakis, and E. A. Frimpong. Embryonic selfish-herding blurs the line between brood parasitism and mutualism for communal-breeding stream fishes. Accepted at *Ecology*. 
 
 Shelton, A. O., K. Nichols, K. M. Parsons, M. M. Betts, S. P. Engster, A. Ramón-Laca, M. Parsley, M. Shaffer, A. Wells. 2025. Developing an abundance index for pacific hake using environmental DNA (Appendix G in: Status of the Pacific Hake (whiting) stock in U.S. and Canadian waters in 2025). 286 p. [https://rdrr.io/github/pacific-hake/hake-assessment/f/doc/151-appendix-eDNA-index.rmd](https://rdrr.io/github/pacific-hake/hake-assessment/f/doc/151-appendix-eDNA-index.rmd)
 
