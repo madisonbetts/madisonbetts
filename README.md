@@ -11,7 +11,7 @@ Although much of my current work is focused on marine ecology, my background ref
 
 ## Publications
 
-Betts, M. M., D. C. Haak, E. M. Hallerman, E. G. Maurakis, and E. A Frimpong. Reciprocal predation of embryonic fishes exposes selfishness by *Nocomis leptocephalus*. *In review*. 
+Betts, M. M., D. C. Haak, E. M. Hallerman, E. G. Maurakis, and E. A Frimpong. Mr. Mom: *Nocomis* embryo-burying effectively increases embryo survival amidst predation by all mutualism participants. *In review*. 
 
 Betts, M. M., E. A. Hultin, E. M. Hallerman, E. G. Maurakis, and E. A. Frimpong. Embryonic selfish-herding blurs the line between brood parasitism and mutualism for communal-breeding stream fishes. Accepted at *Ecology*. 
 
