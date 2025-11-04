@@ -19,4 +19,5 @@ Shelton, A. O., K. Nichols, K. M. Parsons, M. M. Betts, S. P. Engster, A. Ramón
 
 Betts, M. M., N. Abaid, E. G. Maurakis, and E. A. Frimpong. 2024. Bluehead chub *Nocomis leptocephalus* hosts exploit selfish-herd benefits from their heterospecific nest associates. *Freshwater Biology*, 69, 450–459. [https://doi.org/10.1111/fwb.14224](https://onlinelibrary.wiley.com/doi/10.1111/fwb.14224).
 
+### Check out my [website](https://maddiebetts.com/)!
 ### Find me on ResearchGate [here](https://www.researchgate.net/profile/Madison-Betts-4?ev=hdr_xprf)!
