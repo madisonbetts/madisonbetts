@@ -2,12 +2,17 @@
 
 ## About Me
 
-I am a fish ecologist and geneticist working as a contractor for NOAA's Northwest Fisheries Science Center. In my current role, I work on a variety of projects within the lab and in the field, with study species that range from marine mammals to giant manta rays and anadromous fishes. A large portion of my work centers on supporting the eDNA initiatives of the [Integrated West Coast Pelagics Survey](https://www.fisheries.noaa.gov/west-coast/science-data/integrated-west-coast-pelagics-survey). 
+I am a fish ecologist and geneticist currently pursuing my PhD at the University of Vermont under the mentorship of Dr. Thaïs Bernos. My reserach is currently focused on Lake Champlain black bass population genomics. 
 
-Although much of my current work is focused on marine ecology, my background reflects my deep interest in freshwater fish ecology. This fall, I will dive back into the freshwater world as I begin my PhD at the University of Vermont, where I will be studying the effects of angling on black bass populations on Lake Champlain.  
+Previously, I worked as a contractor for NOAA's Northwest Fisheries Science Center. From this role, I worked on a variety of projects within the lab and in the field, with study species that ranged from marine mammals to giant manta rays and anadromous fishes. A large portion of my work centered on supporting the eDNA initiatives of the [Integrated West Coast Pelagics Survey](https://www.fisheries.noaa.gov/west-coast/science-data/integrated-west-coast-pelagics-survey). 
 
 ### The team I sailed with recently on the Bell M. Shimada as part of the IWCPS!
 ![The team I sailed with recently on the IWCPS](IMG_8947.JPEG)
+
+I received my M.Sc. from Virginia Tech in 2023, where I studied the spawning behaviors of the bluehead chub and the greater leuciscid community in southwest Virginia. This work has been published in *Ecology*, *Freshwater Biology*, and *Ecology of Freshwater Fish*.  
+
+### Bluehead chub, amidst a swarm of nest associates
+![Bluehead chub, amidst a swarm of nest associates](
 
 ## Publications
 
