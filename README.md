@@ -12,7 +12,7 @@ Previously, I worked as a contractor for NOAA's Northwest Fisheries Science Cent
 I received my M.Sc. from Virginia Tech in 2023, where I studied the spawning behaviors of the bluehead chub and the greater leuciscid community in southwest Virginia. This work has been published in *Ecology*, *Freshwater Biology*, and *Ecology of Freshwater Fish*.  
 
 ### Bluehead chub, amidst a swarm of nest associates
-![Bluehead chub, amidst a swarm of nest associates](
+![Bluehead chub, amidst a swarm of nest associates](Chub Dropping Rock on Nest_Todd Pusser.JPG)
 
 ## Publications
 
