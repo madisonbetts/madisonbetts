@@ -16,13 +16,13 @@ I received my M.Sc. from Virginia Tech in 2023, where I studied the spawning beh
 
 ## Publications
 
-Betts, M. M., D. C. Haak, E. M. Hallerman, E. G. Maurakis, and E. A Frimpong. Mr. Mom: *Nocomis* embryo-burying effectively increases embryo survival amidst predation by all mutualism participants. Accepted at *Ecology of Freshwater Fish*. 
-
 Betts, M. M., E. A. Hultin, E. M. Hallerman, E. G. Maurakis, and E. A. Frimpong. Embryonic selfish-herding blurs the line between brood parasitism and mutualism for communal-breeding stream fishes. Accepted at *Ecology*. 
+
+Betts, M. M., D. C. Haak, E. M. Hallerman, E. G. Maurakis, and E. A Frimpong. 2025. Mr. Mom: *Nocomis* embryo-burying effectively increases embryo survival amidst predation by all mutualism participants. *Ecology of Freshwater Fish*, 35(1). [http://dx.doi.org/10.1111/eff.70035](http://dx.doi.org/10.1111/eff.70035) 
 
 Shelton, A. O., K. Nichols, K. M. Parsons, M. M. Betts, S. P. Engster, A. Ramón-Laca, M. Parsley, M. Shaffer, A. Wells. 2025. Developing an abundance index for pacific hake using environmental DNA (Appendix G in: Status of the Pacific Hake (whiting) stock in U.S. and Canadian waters in 2025). 286 p. [https://rdrr.io/github/pacific-hake/hake-assessment/f/doc/151-appendix-eDNA-index.rmd](https://rdrr.io/github/pacific-hake/hake-assessment/f/doc/151-appendix-eDNA-index.rmd)
 
-Betts, M. M., N. Abaid, E. G. Maurakis, and E. A. Frimpong. 2024. Bluehead chub *Nocomis leptocephalus* hosts exploit selfish-herd benefits from their heterospecific nest associates. *Freshwater Biology*, 69, 450–459. [https://doi.org/10.1111/fwb.14224](https://onlinelibrary.wiley.com/doi/10.1111/fwb.14224).
+Betts, M. M., N. Abaid, E. G. Maurakis, and E. A. Frimpong. 2024. Bluehead chub *Nocomis leptocephalus* hosts exploit selfish-herd benefits from their heterospecific nest associates. *Freshwater Biology*, 69, 450–459. [https://doi.org/10.1111/fwb.14224](https://onlinelibrary.wiley.com/doi/10.1111/fwb.14224)
 
 ### Check out my [website](https://maddiebetts.com/)!
 ### Find me on ResearchGate [here](https://www.researchgate.net/profile/Madison-Betts-4?ev=hdr_xprf)!
