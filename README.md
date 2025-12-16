@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a fish ecologist and geneticist currently pursuing my PhD at the University of Vermont under the mentorship of Dr. Thaïs Bernos. My reserach is currently focused on Lake Champlain black bass population genomics. 
+I am a fish ecologist and geneticist currently pursuing my PhD at the University of Vermont under the mentorship of Dr. Thaïs Bernos. My research is currently focused on Lake Champlain black bass population genomics. 
 
 Previously, I worked as a contractor for NOAA's Northwest Fisheries Science Center. From this role, I worked on a variety of projects within the lab and in the field, with study species that ranged from marine mammals to giant manta rays and anadromous fishes. A large portion of my work centered on supporting the eDNA initiatives of the [Integrated West Coast Pelagics Survey](https://www.fisheries.noaa.gov/west-coast/science-data/integrated-west-coast-pelagics-survey). 
 
